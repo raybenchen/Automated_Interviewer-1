@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntelligentHR</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Q1">Tell me about yourself?</string>
+    <string name="QZ">What is the most important feature of Java?</string>
+    <string name="btn1">Next</string>
+
+    <string name="facebook_app_id">858330577585531</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_tech">TechActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+</resources>
